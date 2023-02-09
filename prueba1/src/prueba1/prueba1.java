@@ -11,4 +11,8 @@ public class prueba1 {
 		System.out.println("Hola mundo java-git");
 		
 	}
+	public static void main2(String[] args) {
+		System.out.println("Hola mundo java-git");
+		
+	}
 }
